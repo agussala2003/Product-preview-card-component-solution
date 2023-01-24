@@ -27,8 +27,8 @@ BOTH COMPLETED
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/agussala2003/Product-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://agussala2003.github.io/Product-preview-card-component-solution)
+- Solution URL: [https://github.com/agussala2003/Product-preview-card-component-solution](https://github.com/agussala2003/Product-preview-card-component-solution)
+- Live Site URL: [https://agussala2003.github.io/Product-preview-card-component-solution](https://agussala2003.github.io/Product-preview-card-component-solution)
 
 ### Built with
 
@@ -39,8 +39,8 @@ BOTH COMPLETED
 
 ## Author
 
-- Website - [Add your name here](https://agussala2003.github.io/portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/agussala2003)
-- Twitter - [@yourusername](https://www.twitter.com/codewithsala)
+- Website - [Agustin Saladino](https://agussala2003.github.io/portfolio/)
+- Frontend Mentor - [@agussala2003](https://www.frontendmentor.io/profile/agussala2003)
+- Twitter - [@codewithsala](https://www.twitter.com/codewithsala)
 
 
